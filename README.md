@@ -19,4 +19,23 @@ For the purpose of ease, the user can play the game using the following keys :
   `D - stands for turn right`    
   `SPACE - stands for shoot`
 
+## 🎮 English Learning Game Modes
+Choose your level:
+
+A. Easy -
+🏊 Swimming Game
+⚽ Soccer Game
+
+B. Mastre - 
+🏃 Running Game
+🏀 Basketball Shooting Game
+
+### ⏱️ Game Rules  
+* Time-limited scoring system
+
+* Obstacles appear during gameplay
+
+* Each time you hit an obstacle:
+👉 Answer an English vocabulary or fill-in-the-blank sentence question!
+
 

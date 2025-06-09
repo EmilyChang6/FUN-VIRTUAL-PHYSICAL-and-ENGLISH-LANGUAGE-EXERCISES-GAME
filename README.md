@@ -1,5 +1,8 @@
 # FUN-VIRTUAL-PHYSICAL-and-ENGLISH-LANGUAGE-EXERCISES-GAME
-Developing VR projects with CoSpaces. [Play Now!](https://edu.delightex.com/DWB-ERE)
+Developing VR projects with CoSpaces. [Play Now!](https://edu.delightex.com/DWB-ERE)   
+
+<img src="https://github.com/EmilyChang6/FUN-VIRTUAL-PHYSICAL-and-ENGLISH-LANGUAGE-EXERCISES-GAME/blob/main/Scenes.png" width="300">
+
 ## Project target
 * To have fun. 
 * To teach people basic exercises and their importance. 
